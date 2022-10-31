@@ -12,8 +12,7 @@ class Circle:
 
 if __name__=='__main__':
 
-    print("Sakalya Mitra:20MIM10056")
-    print("\n")
+    print(f"Sakalya Mitra:20MIM10056\n")
     obj1 = Circle(5)
     obj1.perimeter()
     obj1.area()
